@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * an annotation that determines the Broadcast Receiver permission in manifest
  *
- * Created by Ahmed Adel Ismail on 1/20/2018.
+ * 
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)

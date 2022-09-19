@@ -1,5 +1,5 @@
-# BroadcastReceiver-For-Naught-and-Oreo-devices
-Broadcast Receiver for naught and oreo+ devices . getting all the actions performed by device at one place.
+# BroadcastReceiver-For-all-devices
+Broadcast Receiver for all API level devices . getting all the actions performed by device at one place.
 working on all devices get all Actions at place for :-
 1.Power Connected
 2.Power disconnected
